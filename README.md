@@ -12,7 +12,8 @@ It does not contain fancy dependencies but it is worth to mention them:
 <br> <br>
 
 ## Result
-
+![first](https://github.com/AltoSolid/simple_unconvential_calculator/blob/main/assets/Images/first.png) <br>
+![second](https://github.com/AltoSolid/simple_unconvential_calculator/blob/main/assets/Images/second.png)<br>
 
 ## Be aware of
 It's called unconventional because you always need to change the number manually and after you have entered the number, you use the operator button you want to be execute.
